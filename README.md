@@ -1,6 +1,10 @@
 # firebase_notification
 
-Firebase notification detail des
+Firebase notification detail
+
+How to run project
+- flutter pub get
+- flutter run 
 
 ## Getting Started
 
